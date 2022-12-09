@@ -1,0 +1,10 @@
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\bin\Debug\netcoreapp2.1\CursoPAV.deps.json
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\bin\Debug\netcoreapp2.1\CursoPAV.runtimeconfig.json
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\bin\Debug\netcoreapp2.1\CursoPAV.runtimeconfig.dev.json
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\bin\Debug\netcoreapp2.1\CursoPAV.dll
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\bin\Debug\netcoreapp2.1\CursoPAV.pdb
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\obj\Debug\netcoreapp2.1\CursoPAV.csprojAssemblyReference.cache
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\obj\Debug\netcoreapp2.1\CursoPAV.AssemblyInfoInputs.cache
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\obj\Debug\netcoreapp2.1\CursoPAV.AssemblyInfo.cs
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\obj\Debug\netcoreapp2.1\CursoPAV.dll
+C:\Users\raquel\source\repos\CursoPAV\CursoPAV\obj\Debug\netcoreapp2.1\CursoPAV.pdb
